@@ -5,7 +5,7 @@ Certainly! Here's a short README template for showcasing a Power BI project on G
 # Power BI Project Showcase
 
 ## Overview
-This repository contains the artifacts and documentation for a Power BI project that analyzes [brief description of the project focus or business problem].
+This repository contains the artifacts and documentation for a Power BI project that analyzes different real-life scenarios and provides key insights through great visuals that help in decision making.
 
 ## Features
 - **Visualization:** Interactive dashboards showcasing key metrics and insights.
